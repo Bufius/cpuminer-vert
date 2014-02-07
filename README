@@ -4,7 +4,7 @@ fork of Jeff Garzik's reference cpuminer.
 License: GPLv2.  See COPYING for details.
 
 Downloads:  https://sourceforge.net/projects/cpuminer/files/
-Git tree:   https://github.com/pooler/cpuminer
+Git tree:   https://github.com/Bufius/cpuminer-vert
 
 Dependencies:
 	libcurl			http://curl.haxx.se/libcurl/
